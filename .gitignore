@@ -1,0 +1,10 @@
+# Environment vairables
+
+.env
+
+#Packages
+
+bin/
+lib/
+lib64/
+include/
